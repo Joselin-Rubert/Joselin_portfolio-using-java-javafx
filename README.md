@@ -1,4 +1,4 @@
-# Joselin's Premium JavaFX Portfolio Application
+# Joselin's Personal JavaFX Portfolio Application
 
 A ultra-modern, premium, and visually stunning desktop portfolio application built with Java and JavaFX. This application features a dark futuristic theme with glassmorphism design, smooth animations, and professional UI/UX.
 
