@@ -313,7 +313,7 @@ Potential improvements:
 
 ## 👨‍💻 About
 
-**Portfolio Owner**: Joselin Sornapraisy R
+**Developed by**: Joselin Sornapraisy R
 **Title**: Pre-Final Year CSE Student | Aspiring Full Stack Developer | Java Developer
 **Focus**: Java Development, Web Technologies, Full Stack Development
 
@@ -321,4 +321,4 @@ Potential improvements:
 
 **Version**: 1.0
 **Last Updated**: May 27, 2026
-**Built With**: ❤️ using Java and JavaFX
+**Built With**: ❤️ by Joselin using Java and JavaFX
