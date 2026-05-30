@@ -314,7 +314,7 @@ Potential improvements:
 ## 👨‍💻 About
 
 **Developed by**: Joselin Sornapraisy R
-**Title**: Pre-Final Year CSE Student | Aspiring Full Stack Developer | Java Developer
+ Pre-Final Year CSE Student | Aspiring Full Stack Developer | Java Developer
 **Focus**: Java Development, Web Technologies, Full Stack Development
 
 ---
